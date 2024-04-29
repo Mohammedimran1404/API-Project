@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T16:44:49 IST" name="Default suite" finished-at="2024-04-15T16:44:51 IST" duration-ms="2076">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T16:44:49 IST" name="Default test" finished-at="2024-04-15T16:44:51 IST" duration-ms="2076">
+      <class name="day1.HTTPRequests">
+        <test-method signature="getUser()[pri:1, instance:day1.HTTPRequests@3c77d488]" started-at="2024-04-15T16:44:49 IST" name="getUser" finished-at="2024-04-15T16:44:51 IST" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- day1.HTTPRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
